@@ -49,7 +49,7 @@ public class Main {
         if(isError) {
             System.out.println("Hatalı Veri Girdiniz!!!");
         }else {
-            System.out.println("Toplam Tutar : " + total);
+            System.out.println("Toplam Tutar : " + total + " TL");
         }
 
 
